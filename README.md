@@ -4,7 +4,7 @@ This project controls the position of a servo motor based on the light intensity
 
 ---
 
-##  Theory
+##  Theory of this Project
 
 The project is based on the principle of a light-following mechanism:
 - Two LDRs are placed such that they sense light from different directions.
@@ -74,7 +74,7 @@ The two LDRs are connected to the analog pins of the Arduino. A voltage divider 
 
 ## Conclusion
 
-This project demonstrates how to build a simple light-tracking system using a servo motor and two LDRs. It is a good example of a closed-loop feedback control system.
+The Solar Maximum Power Tracking System effectively demonstrated how solar energy efficiency can be enhanced using a simple Arduino-based sun-tracking mechanism. By automatically adjusting the panel's orientation based on real-time light intensity from LDR sensors, the system ensures maximum exposure to sunlight throughout the day. This project highlights the potential of embedded systems and renewable energy integration, offering a scalable solution for energy optimization in both small-scale and commercial solar applications.
 
 ---
 

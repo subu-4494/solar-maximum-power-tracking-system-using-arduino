@@ -78,5 +78,4 @@ This project demonstrates how to build a simple light-tracking system using a se
 
 ---
 
-###  Folder Structure (suggestion)
 
